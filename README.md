@@ -2,7 +2,7 @@
 
 ## Pre-requis
 
-- Vous devew avoir Valgrind d'installe sur votre machine.
+- Vous devew avoir ```Valgrind``` d'installe sur votre machine.
 - Avoir compile votre projet avec le flag ```-g```
 
 ## Usage :
