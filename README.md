@@ -1,5 +1,7 @@
 # Fillit_leaks_test
 
+[!link](https://media.giphy.com/media/hNrmwTiaUlQU8/giphy.gif)
+
 ## Pre-requis
 
 - Vous devew avoir ```Valgrind``` d'installe sur votre machine.
