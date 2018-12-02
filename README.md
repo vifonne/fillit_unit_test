@@ -19,7 +19,7 @@ La sortie de ce script correspond a la sortie de votre programme avec quelques l
 
 ## Logs :
 
-Vous retrouverez un log par test dans le dossier fillit_unit_test
+Vous retrouverez un log par test dans le dossier ```fillit_unit_test/```
 
 ## Suggestions :
 
